@@ -3,3 +3,6 @@
 
 # 15 September 2022
 - add register page
+
+# 15 September 2022
+- add payment page
