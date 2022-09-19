@@ -9,3 +9,4 @@
 
 # 19 September 2022
 - add order page
+- add search page
